@@ -1,0 +1,1 @@
+Overriding a method involves changing the behavior of a method in a subclass although it is already defined in its superclass. This differs from implementation, defining the body of a method which doesn't yet have a set behavior, and overloading, which multiple methods have the same name with different signatures in scenerios where certain parameters may not be given. 
